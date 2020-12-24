@@ -21,7 +21,7 @@ Aquesta activitat ha estat realitzada per David Roche Valles i Silvia Galan Mart
 En el repositori podem trobar diferents documents:
 
 * **Pràctica2-Neteja.ipynb**: Jupyter notebook amb tot el procediment que s'ha aplicat per la realització de la pràctica.
-* **pdf/respostes.pdf**: Document en format PDF el qual conté les respostes a les diferents preguntes de la pràctica.
+* **pdf/Pràctica 2.Neteja.pdf**: Document en format PDF el qual conté les respostes a les diferents preguntes de la pràctica.
 * **csv/**: Dins d'aquesta carpeta es troben el dataset original, i el dataset netejat el qual ha estat utilitzat pels anàlisis posteriors.
 
 
